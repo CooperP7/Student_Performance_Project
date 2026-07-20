@@ -189,10 +189,10 @@ At the same time though, taking online classes shows drive and desire to succeed
 
 | Deliverable | Location |
 |-------------|-------------|
-| Full SQL File  | [`sql-queries/proj1.sql`] |
-| Full Excel File | [`dashboard/students_excel.xlsx`] |
-| Dashboard Image | [`dashboard/final_dashboard.png`] |
-| Cleaned Dataset | [`data/cleaned/cleaned_student_data.csv`] |
+| Full SQL File  | [`SQL File`](sql-queries/proj1.sql) |
+| Full Excel File | [`Excel File`](dashboard/students_excel.xlsx) |
+| Dashboard Image | [`Dashboard Image`](dashboard/final_dashboard.png) |
+| Cleaned Dataset | [`Cleaned Dataset`](data/cleaned/cleaned_student_data.csv) |
 
 ---
 
